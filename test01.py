@@ -4,4 +4,4 @@ def addNum(a,b):
 num 01 = 10
 num 02 = 20
 print(addNum(num01, num02)
-print("Program end!")
+print("Program was ended")
